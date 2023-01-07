@@ -25,15 +25,5 @@ In this task, I am going to detect the message given by me by using hand sign.I 
 
 This is a video recorded by me after running the codes - [video](https://drive.google.com/file/d/1hsyI-hHgZAqi8YquWrOzqKoj0YkntKDf/view?usp=sharing)
 
-<!-- 
-This site was built using [Demonstration video](https://drive.google.com/file/d/1hsyI-hHgZAqi8YquWrOzqKoj0YkntKDf/view?usp=sharing) -->
 
-
-
-<!-- you need to record a short video inside your laptop that starts and end with 🖐️ sign. Your current meaning of sign should be visible on video as you can see in images of the Task 2 problem statement. -->
-
-
-
-<!-- A message is conveyed using different hand signs.Mediapipe library is used for detecting hand landmarks.
-Also used raspberrypi camera to record a video. -->
 
